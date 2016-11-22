@@ -39,7 +39,7 @@ void loop() {
     request.hostname = "www.iot.trendots.com";
     request.port = 80;
     request.path = "/backend/application/index.php/api/log/create";
-    request.body = "{\"value\": \"1\"}";            // many values can be sent and mapped throught the trendots interface configuration
+    request.body = "{\"valueA\": \"1\", \"valueB\": \"1\"}";            // many values can be sent and mapped throught the trendots interface configuration
     
     Serial.print("Request body>\t: ");
     Serial.println(request.body);    
