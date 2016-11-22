@@ -15,32 +15,32 @@
 
 Add libs and code to your photon
 
-## Requirements
+### Requirements
 * An account with [Trendots](https://www.trendots.com)
 * [Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit)
 
-## Versioning
+### Versioning
 
 All release changes can be viewed on our [changelog](CHANGELOG.md).
 
 # Support
 
-## FAQ
+### FAQ
 
 https://github.com/pico7/trendots-particle-photon/wiki
 
-## Code of Conduct
+### Code of Conduct
 
 Take a moment to read our [Code of Conduct](CODE_OF_CONDUCT.md)
 
-## Need help?
+### Need help?
 Need help using UI Bootstrap?
 
 * Ask a question in [StackOverflow](http://stackoverflow.com/) under the [trendots-particle-photon](http://stackoverflow.com/questions/tagged/trendots-particle-photon) tag.
 
 **Please do not create new issues in this repository to ask questions about using the Photon or Trendots**
 
-## Found a bug?
+### Found a bug?
 Please take a look at [CONTRIBUTING.md](CONTRIBUTING.md#you-think-youve-found-a-bug) and submit your issue [here](https://github.com/pico7/trendots-particle-photon/issues/new).
 
 
