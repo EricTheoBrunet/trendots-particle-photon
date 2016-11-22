@@ -2,15 +2,14 @@
 
 ### Quick links
 - [Installation](#installation)
+    - [Requirements](#requirements)
+    - [Versioning](#versioning)
 - [Support](#support)
     - [FAQ](#faq)
     - [Code of Conduct](#code-of-conduct)
-    - [PREFIX MIGRATION GUIDE](#prefix-migration-guide)
-    - [Supported browsers](#supported-browsers)
     - [Need help?](#need-help)
     - [Found a bug?](#found-a-bug)
 - [Contributing to the project](#contributing-to-the-project)
-- [Development, meeting minutes, roadmap and more.](#development-meeting-minutes-roadmap-and-more)
 
 # Installation
 
@@ -20,7 +19,7 @@ Add libs and code to your photon
 * An account with [Trendots](https://www.trendots.com)
 * [Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit)
 
-# Versioning
+## Versioning
 
 All release changes can be viewed on our [changelog](CHANGELOG.md).
 
@@ -30,7 +29,7 @@ All release changes can be viewed on our [changelog](CHANGELOG.md).
 
 https://github.com/pico7/trendots-particle-photon/wiki
 
-# Code of Conduct
+## Code of Conduct
 
 Take a moment to read our [Code of Conduct](CODE_OF_CONDUCT.md)
 
