@@ -21,8 +21,8 @@ static const char* HTTP_METHOD_PATCH = "PATCH";
  */
 typedef struct
 {
-  const char* header;
-  const char* value;
+  String header;
+  String value;
 } http_header_t;
 
 /**
