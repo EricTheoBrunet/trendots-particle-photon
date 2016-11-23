@@ -13,9 +13,12 @@
 
 # Installation
 
-Add libs and code to your photon
+* Create a new project in the Particle [Build IDE](https://build.particle.io/build).
+* Copy the content of the [src/trendots-particle-photon.ino](https://github.com/pico7/trendots-particle-photon/blob/master/src/trendots-particle-photon.ino) into you project .ino file.
+* Add the rest of the files to your project. 
 
 ### Requirements
+* An account with [Particle](https://www.particle.io/)
 * An account with [Trendots](https://www.trendots.com)
 * [Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit)
 
