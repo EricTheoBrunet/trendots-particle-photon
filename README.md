@@ -1,4 +1,4 @@
-### [Particle](https://www.particle.io) - [Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit) - specific to code for connecting to [Trendots](https://www.trendots.com)
+### [Trendots](https://www.trendots.com) connector and sample code for [Particle](https://www.particle.io) - [Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit)
 
 ### Quick links
 - [Installation](#installation)
