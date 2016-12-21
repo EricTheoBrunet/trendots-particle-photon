@@ -17,7 +17,7 @@ In this project I am sharing sample code to connect a Partle Photon Arduino devi
 
 * Create a new project in the Particle [Build IDE](https://build.particle.io/build).
 * Copy the content of the [src/trendots-particle-photon.ino](https://github.com/pico7/trendots-particle-photon/blob/master/src/trendots-particle-photon.ino) into you project .ino file.
-* Add the rest of the files to your project. 
+* Add the rest of the [files](https://github.com/pico7/trendots-particle-photon/tree/master/src) to your project. 
 
 ### Requirements
 * An account with [Particle](https://www.particle.io/)
