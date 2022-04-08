@@ -1,6 +1,6 @@
 ### [Trendots](https://www.trendots.com) connector and sample code for [Particle](https://www.particle.io) - [Photon](https://www.particle.io/products/hardware/photon-wifi-dev-kit)
 
-In this project I am sharing sample code to connect a Partle Photon Arduino device to Trendots. This sample code can be used as a startup project, all you need to do is build your hardware tweak this code and have fun doing it!
+In this project I am sharing sample code to connect a Partile Photon Arduino device to Trendots. This sample code can be used as a startup project, all you need to do is build your hardware tweak this code and have fun doing it!
 
 ### Quick links
 - [Installation](#installation)
